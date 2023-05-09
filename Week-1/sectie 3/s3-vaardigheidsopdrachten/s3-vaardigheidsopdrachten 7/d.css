@@ -1,0 +1,66 @@
+#topleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 255, 77);
+	float: left;
+}
+
+#topmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 32, 32);
+	float: left;
+}
+
+#topright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(28, 28, 255);
+	float: left;
+}
+
+
+
+#midleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(0, 134, 0);
+	float: left;
+}
+
+#midmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 255, 255);
+	float: left;
+}
+
+#midright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(104, 0, 104);
+	float: left;
+}
+
+
+
+#botleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(117, 117, 117);
+	float: left;
+}
+
+#botmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(252, 115, 240);
+	float: left;
+}
+
+#botright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 147, 6);
+	float: left;
+}

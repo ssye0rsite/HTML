@@ -1,0 +1,26 @@
+#left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#right{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+h1{
+    color: rgb(255, 148, 214);
+    letter-spacing: 25px;
+    word-spacing: 25px;
+    max-width: 500px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: rgb(255, 140, 249);
+    letter-spacing: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}

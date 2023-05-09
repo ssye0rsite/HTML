@@ -1,0 +1,50 @@
+#picture{
+    width: 100%;
+    height: 50%;
+    background-image: url(tiger1.png);
+    background-size: cover;
+    
+}
+#formulier{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 50%;
+}
+#tekst{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 60px;
+}
+
+h1{
+    margin-left: 50px;
+    font-size: 40px;
+    border-bottom: 2px solid rgb(137, 95, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+h2{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.label{
+    display: block;
+    float: left;
+    margin-left: 50px;
+    width: 150px;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input, select{
+    margin-left: 50px;
+}
+
+.clear{
+    clear: both;
+}

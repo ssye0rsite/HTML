@@ -1,0 +1,11 @@
+#rood{
+    border: 3px solid red;
+    padding: 1rem;
+    width: 200px;
+}
+
+#blauw{
+    border: 3px solid blue;
+    padding: 1rem;
+    width: 200px;
+}

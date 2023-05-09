@@ -1,0 +1,8 @@
+img{
+    width: 24%;
+    height: 200px;
+}
+img:hover{
+    transform: scale(1.2);
+    transition-delay: 0.5s;
+}

@@ -1,0 +1,33 @@
+#wrapper {
+    display: flex;
+    width: 50%;
+    height: 33%;
+    margin-left: 25%;
+    margin-top: 200px;
+}
+#first {
+    width: 50%;
+    background-image: url(kitty.png);
+}
+#second {
+    width: 50%;
+    float: right;
+    float: top;
+    padding: 20px;
+}
+
+h1{
+    font-size: 25px;    
+    text-align: center;
+}
+h2{
+    font-size: 15px;
+    font-weight: 100;    
+    text-align: justify;
+}
+
+button{
+    background-color: rgb(255, 92, 220);
+    border-radius: 12px;
+    border-color: rgb(150, 216, 255);
+}

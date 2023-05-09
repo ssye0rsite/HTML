@@ -1,0 +1,82 @@
+h1{
+    font-size: 25px;  
+    text-align: center;
+	color: rgb(0, 0, 0);
+}
+
+h2{
+	font-size: 25px;
+	color: rgb(119, 119, 119);
+	text-align: center;
+}
+
+h3{
+	color: rgb(0, 0, 0);
+	font-size: rgb(0, 0, 0);
+	text-align: center;
+}
+
+#topleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 255, 40);
+	float: left;
+}
+
+#topmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 54, 54);
+	float: left;
+}
+
+#topright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(30, 30, 255);
+	float: left;
+}
+
+
+#midleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(38, 165, 131);
+	float: left;
+}
+
+#midmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(50, 197, 158);
+	float: left;
+}
+
+#midright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(116, 0, 116);
+	float: left;
+}
+
+
+#botleft{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(119, 119, 119);
+	float: left;
+}
+
+#botmid{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(231, 120, 231);
+	float: left;
+}
+
+#botright{
+	width: 33%;
+	height: 33%;
+	background-color: rgb(255, 149, 11);
+	float: left;
+}
