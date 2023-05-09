@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px){
+    body {
+      background-color: rgb(160, 255, 160);
+    }
+}
+@media screen and (max-height: 480px){
+  body {
+    background-color: rgb(159, 255, 159);
+  }
+}
