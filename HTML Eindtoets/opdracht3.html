@@ -1,28 +1,59 @@
 <!DOCTYPE html>
-<html lang="nl">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>where yo dadday?</title>
-	<link rel="stylesheet" href="opdracht3.css">
-</head>
-<body>
-	<nav>
-		<div class="logo">
-			<a href="#">bobby🦆</a>
-		</div>
-		<ul class="nav-links">
-			<li><a href="#">ur</a></li>
-			<li><a href="#">dad</a></li>
-			<li><a href="#">is getting</a></li>
-			<li><a href="#">milk</a></li>
-		</ul>
-		<div class="burger">
-			<div class="line1"></div>
-			<div class="line2"></div>
-			<div class="line3"></div>
-		</div>
-	</nav>
-	<script src="opdracht3.js"></script>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bobby approved🦆</title>
+
+    <style>
+      .outer-container {
+        display: flex;
+        border: solid black 3px;
+        padding: 10px;
+
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        height: 285px;
+        width: 60%;
+      }
+
+      .item {
+        display: flex;
+        width: 250px;
+        flex-grow: 1;
+
+        align-items: center;
+        font-size: 30px;
+      }
+
+      .item:nth-child(1),
+      .item:nth-child(4),
+      .item:nth-child(7) {
+        background-color: blue;
+      }
+
+      .item:nth-child(2),
+      .item:nth-child(5) {
+        background-color: green;
+      }
+      .item:nth-child(3),
+      .item:nth-child(6) {
+        background-color: rgb(255, 0, 0);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="outer-container">
+      <div class="item">A</div>
+      <div class="item">Bobby🦆</div>
+      <div class="item">C</div>
+      <div class="item">D</div>
+      <div class="item">E</div>
+      <div class="item">F</div>
+      <div class="item">G</div>
+    </div>
+  </body>
 </html>
